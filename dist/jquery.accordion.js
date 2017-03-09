@@ -1,6 +1,6 @@
 (function($) {
 
-    $.fn.GabAccordion = function(options) {
+    $.fn.navaccordion = function(options) {
         
         this.each(function() {
             
