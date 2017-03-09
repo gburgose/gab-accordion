@@ -1,0 +1,14 @@
+{
+    "name": "gab-accordion",
+    "repo": "gburgose/gab-accordion",
+    "description": "jQuery Accordion",
+    "version": "1.6.0",
+    "keywords": ["ui", "jquery", "carousel", "responsive", "slider"],
+    "dependencies": {
+        "component/jquery": "*"
+    },
+    "development": {},
+    "scripts": {
+        "dist/jquery.accordion.js": "jquery.accordion.js"
+    }
+}

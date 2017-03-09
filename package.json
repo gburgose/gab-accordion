@@ -5,7 +5,7 @@
 	"main": "dist/jquery.accordion.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/kenwheeler/slick.git"
+		"url": "https://github.com/gburgose/gab-accordion.git"
 	},
 	"keywords": [
 		"carousel",
